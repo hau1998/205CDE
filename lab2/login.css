@@ -23,12 +23,15 @@ p{
 	  font-family: Verdana;
 }
 
+.border{
+	  border: 5px solid red;
+  
+}
+
 i{
 
-	 background-color: green;
   border: none;
-  color: white;
-  padding: 15px 32px;
+  color: black;
   text-align: center;
   text-decoration: none;
   display: inline-block;

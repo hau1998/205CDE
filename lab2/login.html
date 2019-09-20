@@ -10,10 +10,18 @@ and open the template in the editor.
         <meta charset="windows-1252">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" type="text/css" href="login.css" title="style" />
+		<link rel="stylesheet" type="text/css" href="w3.css" title="style" />
     </head>
     <body>
-        <a href="home.html"><i>Home</i></a>
         <h1>Login</h1>
+		<div class = "w3-bar w3-light-grey">
+		<a href="home.html" class="w3-bar-item w3-button"><i>Home</i></a>
+	    <a href="register.html" class="w3-bar-item w3-button"><i>Register</i></a>
+        <a href="contact_us.html" class="w3-bar-item w3-button"><i>Contact Us</i></a> 
+		</div>
+		<center>
+		<br>
+		<div class=border>
           <label for="email"><b>Email</b></label>
           <br>
         <input type="text" required placeholder="Email" name="email">
@@ -25,10 +33,14 @@ and open the template in the editor.
         <br>
         <br>
         <button type="submit" class="loginbtn">Login</button>
+		<br>
+		<br>
+		</center>
+		</div>
         <br>
         <br>
         <div class="container register">
-    <p>No existing account? <a href="register.html">Register</a>.</p>
+    <p><center>No existing account? <a href="register.html">Register</a>.</center></p>
   </div>
     </body>
 </html>
