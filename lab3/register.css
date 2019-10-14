@@ -1,0 +1,80 @@
+
+h1 {
+  color: red;
+  font-size: 30px;
+  margin-left: 20px;
+  font-family: DejaVu Sans Mono, monospace;
+}
+
+label{
+	color: white;
+	 font-size: 16px;
+	font: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+         float: left;
+}
+
+button{
+	font-size: 20px;
+}
+
+
+
+
+.bord{
+     
+    background-color:rgba(192,192,192,0.3);
+    width: 600px;
+    
+    
+}
+
+i{
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: Helvetica;
+
+}
+
+.reg{
+    color: white;
+	 font-size: 50px;
+	 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+          
+            width: 600px;
+            
+}
+
+a{
+	 background-color: gray;
+	 border: none;
+	 color: white;
+	 text-align: center;
+	 text-decoration: none;
+	 display: inline-block;
+	 font-size: 18px;
+	 font-family: Helvetica;
+}
+
+.bobo{
+    background-color: white;
+    border: 3px solid white;
+}
+
+.ar{
+	 border: none;
+         color:#009900;
+	 text-align: center;
+	 text-decoration: none;
+	 display: inline-block;
+	 font-size: 18px;
+	 font-family: Helvetica;
+         
+}
+
+p{
+    color: white;
+}
