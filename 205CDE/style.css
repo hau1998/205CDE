@@ -1,0 +1,300 @@
+
+/*.container{padding: 20px;}*/
+.card{margin-left: 10px;}
+
+/* shopping cart */
+.cart-view{
+	float: right;
+	border: 2px dashed #F89B00;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.cart-view a{
+	font-size: 15px;
+	text-decoration: none;
+}
+.icart{
+	content: url('../images/cart.png');
+	vertical-align: top;
+}
+.itrash{
+	content: url('../images/remove.png');
+	vertical-align: top;
+}
+
+.cart, .checkout{width: 100%;}
+.cart input[type="number"]{width: 75px;}
+.checkout h4{
+	font-size: 18px;
+	font-weight: 500;
+}
+
+/* order status */
+.ord-addr-info{
+	background-color: #fff;
+    border-radius: 2px;
+	background-color: #f1f1f1;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+	margin: 16px 0;
+    padding: 0;
+	width: 100%;
+	padding: 24px;
+}
+.ord-addr-info .hdr{
+	font-size: 18px;
+    font-weight: 500;
+	padding-bottom: 10px;
+	color: #646464;
+}
+.ord-addr-info  p{
+	float: left;
+	width: 100%;
+	font-size: 16px;
+}
+
+
+.form-control {
+    height: 34px;
+}
+h6, .h6 {
+    font-size: 12px;
+}
+
+
+h1 {
+  color: red;
+  font-size: 30px;
+  margin-left: 20px;
+  font-family: DejaVu Sans Mono, monospace;
+}
+
+label{
+	color: red;
+	 font-size: 25px;
+	font: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+         float: left;
+		     
+}
+
+button{
+	font-size: 20px;
+}
+
+.color{
+	   background-color:white;
+}
+
+
+.bord{
+     
+    background-color:rgba(192,192,192,0.3);
+    width: 800px;
+    
+    
+}
+
+i{
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: Helvetica;
+
+}
+
+.reg{
+    color: white;
+	 font-size: 50px;
+	 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+          
+            width: 600px;
+            
+}
+
+a{
+	 background-color: gray;
+	 border: none;
+	 color: white;
+	 text-align: center;
+	 text-decoration: none;
+	 display: inline-block;
+	 font-size: 18px;
+	 font-family: Helvetica;
+}
+
+.bobo{
+    background-color: white;
+    border: 3px solid white;
+}
+
+.ar{
+	 border: none;
+     color:chartreuse;
+	 text-align: center;
+	 text-decoration: none;
+	 display: inline-block;
+	 font-size: 18px;
+	 font-family: Helvetica;
+         
+}
+
+.in{
+	font-size: 20px;
+	color: white;
+	background-color: green;
+	float: right;
+	margin: 8px;
+}
+
+#content {
+    float: right;
+    width: 700px;
+    width: 700px;
+    padding: 20px 10px 20px;
+}
+
+#sidebar h2 {
+    font-size: 25px;
+    padding: 0 0 15px 0;
+    margin: 0 0 15px 0;
+    background: url(sidebar_header_bg.png) left bottom no-repeat;
+}
+
+#sidebar{
+	float: left;
+    width: 200px;
+    padding: 20px 30px 0 10px;
+	background-color: #e9edf0;
+	border: 2px solid deepskyblue;
+}
+
+.sidebar_menu li {
+    margin: 0;
+    padding: 2px 0 3px 15px;
+	background: url(templatemo_list_01.png) no-repeat scroll 0 8px;
+    border-bottom: 1px dotted #ccc;
+}
+
+
+.sidebar_menu {
+    list-style: none;
+    margin: 0 0 30px;
+    padding: 0;
+}
+
+.nice{
+ height: 50%;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+
+}
+
+#template-wrapper {
+    width: 960px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
+#templatem-main {
+    width: 960px;
+
+}
+
+.products{
+		background-color: #e7f3ff;
+		border: 1px solid #ebebee;
+		content: "";
+        display: table;
+		
+		
+   
+}
+
+.thumbnail{
+ float: left;
+  width: 33.33%;
+  padding: 10px;
+   position: relative;
+   border: 1px solid #ebebee;
+}
+
+.image{
+	height: 200px;
+	width: 200px;
+	display: block;
+
+	
+}
+
+p{
+    color: purple;
+    font-size: 30px;
+    font-family: Helvetica;
+	text-align: left;
+}
+
+h2 {
+  color: darkred;
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 30px;
+}
+
+.icon{
+	height:25px;
+	width: 25px;
+}
+
+.user{
+	font-size: 20px;
+}
+
+.item{
+	height:350px;
+	width: 350px;
+}
+
+.title{
+	background-color:red;
+	color: white;
+}
+
+.product{
+	border: 2px solid red;
+	height: 500px;
+	width: 900px;
+}
+
+.show{
+		float: left;
+		padding: 50px;
+		margin: 2px;
+}
+.detail{
+	    font-family: Helvetica Neue LT Std,Helvetica,Arial,sans-serif;
+		font-size: 25px;
+}
+
+.brand{
+	 font-family: Apple Chancery, cursive;
+	font-size: 30px;
+	color: black;
+}
+
+.lead{
+	color: red;
+}
+
+.name{
+	font-size: 20px;
+}
+
+
+
+.quantity{
+	font-size: 18px;
+	color: blue;
+}

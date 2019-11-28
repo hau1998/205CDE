@@ -1,0 +1,159 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: red;
+  font-size: 30px;
+  margin-left: 20px;
+  font-family: DejaVu Sans Mono, monospace;
+}
+
+
+p{
+color: darkblue;
+	 font-size: 20px;
+	 font-family: Verdana, Geneva, sans-serif;
+}
+ul{
+	color: green;
+	 font-size: 18px;
+	 font-family: Verdana;
+}
+
+a{
+	 background-color: gray;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+   max-height: 580px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+ 
+}
+
+.price {
+  color: red;
+  font-size: 22px;
+  
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+.product {
+  background-color: white;
+  width: 320px;
+  height: 580px;
+  border: 10px solid green;
+  padding: 50px;
+  margin: 20px;
+    float: left;
+   
+}
+
+
+
+.pics{
+height:300px;
+width:300px;
+display: block;
+
+    
+}
+
+
+.cart {
+    height: 60px;
+    width: 100px;
+}
+
+
+.cat{
+    color: white;
+	 font-size: 40px;
+	 font-family: Helvetica Neue LT Std, Helvetica, Arial, sans-serif;
+           background-color:red;
+         
+}
+
+.sho{
+    display: none;
+}
+
+.bord{
+    border: 3px solid #ff3333;
+    background-color: #eaf6f4;
+}
+
+.bo{
+    border: 1px solid white;
+     background-color:rgba(192,192,192,0.3);
+     width: 1200px;
+     
+}
+
+.bobo{
+    background-color: white;
+    border: 3px solid white;
+}
+
+.products{
+		background-color: #c8ddf1;
+		border: 1px solid #ebebee;
+		content: "";
+        display: table;
+		
+		
+   
+}
+
+.thumbnail{
+ float: left;
+  width: 33.33%;
+  padding: 10px;
+   position: relative;
+   border: 1px solid #ebebee;
+}
+
+.image{
+	height: 200px;
+	width: 200px;
+	display: block;
+
+	
+}
+.lead {
+    color: red;
+}
+
+#template-wrapper {
+    width: 960px;
+    padding: 0 10px;
+    margin: 0 auto;
+}

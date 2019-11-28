@@ -1,0 +1,108 @@
+
+h1 {
+  color: red;
+  font-size: 30px;
+  margin-left: 20px;
+  font-family: DejaVu Sans Mono, monospace;
+}
+
+label{
+	color: red;
+	 font-size: 20px;
+	font: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+         float: left;
+		     
+}
+
+button{
+	font-size: 20px;
+}
+
+.color{
+	   background-color:white;
+}
+
+
+.bord{
+background-color:rgba(192,192,192,0.3);    
+width: 600px;
+}
+
+.detail{
+	background-color: white;
+	font-size: 20px;
+}
+
+i{
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: Helvetica;
+
+}
+
+.reg{
+    color: white;
+	 font-size: 50px;
+	 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+          
+            width: 600px;
+            
+}
+
+a{
+	 background-color: gray;
+	 border: none;
+	 color: white;
+	 text-align: center;
+	 text-decoration: none;
+	 display: inline-block;
+	 font-size: 18px;
+	 font-family: Helvetica;
+}
+
+.bobo{
+    background-color: white;
+    border: 3px solid white;
+}
+
+.ar{
+	 border: none;
+     color:chartreuse;
+	 text-align: center;
+	 text-decoration: none;
+	 display: inline-block;
+	 font-size: 18px;
+	 font-family: Helvetica;
+         
+}
+
+.in{
+	font-size: 35px;
+	color: white;
+	background-color: green;
+	
+
+	
+}
+
+p{
+    color: purple;
+    font-size: 30px;
+    font-family: Helvetica;
+	text-align: left;
+}
+
+h2 {
+  color: darkred;
+  font-family: Trebuchet MS, sans-serif;
+  font-size: 30px;
+}
+
+.icon{
+	height:25px;
+	width: 25px;
+}

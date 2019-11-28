@@ -1,0 +1,53 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: red;
+  font-size: 30px;
+  margin-left: 20px;
+  font-family: DejaVu Sans Mono, monospace;
+}
+
+
+p{
+	font-size: 20px;
+	 color: darkred;
+	 text-align: center;
+
+}
+
+.detail{
+border: 5px solid blue;
+ width: 500px;
+ height: 400px;
+ background-color: white;
+}
+
+a{
+	 background-color: gray;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  font-family: Helvetica;
+}
+
+.con{
+    color: goldenrod;
+	 font-size: 50px;
+	 font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.bobo{
+    background-color: white;
+    border: 3px solid white;
+}
+
+label{
+    font-size: 20px;
+    color: #35448e;
+}
